@@ -327,6 +327,7 @@ header
   right: 0px;
   z-index: 100;
   height: 100px;
+  background-image: url(../images/banner-bg.png)
   -webkit-transition: all 0.5s ease 0s;
   -moz-transition: all 0.5s ease 0s;
   -o-transition: all 0.5s ease 0s;
